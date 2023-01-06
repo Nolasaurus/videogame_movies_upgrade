@@ -1,0 +1,1 @@
+Enhancing classic videogame movies and trailers by using upscaling to increase viewing size and stable infusion to add missing detail from the upscaled videos.
